@@ -1,5 +1,4 @@
-
-- User is able to call the smart contract and pass the amount of tokens to be migrated. The contract transfers the received amount of JUR token to the contract, as a deposit, and emits an event for the off-chain minting process.
+# Migration of tokens from EVM chain to another chain with EdDSA keys, e.g. Polkadot, Solana
 
 ## Motivation
 
