@@ -1,4 +1,6 @@
-# Migration of tokens from EVM chain to another chain with EdDSA keys, e.g. Polkadot, Solana
+# Token Migration
+
+Migration of tokens from EVM chain, e.g. Vechain, to another chain with EdDSA keys, e.g. Polkadot, Solana
 
 ## Motivation
 
