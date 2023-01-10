@@ -24,3 +24,11 @@ The code was not specifically verified for gas optimisation, and there should be
 ## Testing
 
 Unit tests were created for all classes, testing basic happy flow scenarios and some edge cases. Can be executed by: ```npx hardhat test```
+
+### Supported scripts
+
+There are several supported scripts inside *project.json*:
+
+- build - to compile the project
+
+- test - to run the tests
